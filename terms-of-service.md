@@ -21,10 +21,10 @@ SnackSense uses AI to suggest recipes from ingredients you scan, type, or speak,
 SnackSense offers a **free trial** and paid plans (for example, **monthly** and **annual**).
 
 - **Trial.** The free trial's length is set by the current offer and is **shown before you subscribe**.
-- **Price.** Plan prices are **shown at the point of purchase** in the App Store or Google Play.
-- **Billing and auto-renewal.** Payment is charged to your App Store or Google Play account when you confirm. A subscription **renews automatically** for the same period and price unless you turn off auto-renew **at least 24 hours before** the current period ends. Starting a paid plan may use up any remaining free-trial time.
-- **Managing and cancelling.** You manage or cancel a subscription in your device's App Store or Google Play settings — not inside SnackSense. Cancelling stops the next renewal; it doesn't refund the current period. You can **restore a previous purchase** from the app's paywall or subscription screen.
-- **Refunds** are handled by Apple or Google under their policies, except where the law requires otherwise.
+- **Price.** Plan prices are **shown at the point of purchase** in the App Store.
+- **Billing and auto-renewal.** Payment is charged to your App Store account when you confirm. A subscription **renews automatically** for the same period and price unless you turn off auto-renew **at least 24 hours before** the current period ends. Starting a paid plan may use up any remaining free-trial time.
+- **Managing and cancelling.** You manage or cancel a subscription in your device's App Store settings — not inside SnackSense. Cancelling stops the next renewal; it doesn't refund the current period. You can **restore a previous purchase** from the app's paywall or subscription screen.
+- **Refunds** are handled by Apple under its policies, except where the law requires otherwise.
 
 ## 4. AI results can be wrong — you must check them
 
