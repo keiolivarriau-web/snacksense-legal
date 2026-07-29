@@ -8,7 +8,7 @@ This policy explains what SnackSense collects, why, who processes it, and the ch
 
 SnackSense ("SnackSense", "we", "us") is the app you use to turn what's in your kitchen into recipes.
 
-The operator responsible for your data is **Yaeko Uehara Nagano**.
+The operator responsible for your data is **Yaeko Uehara Nagano**, based in **Puebla, Mexico**.
 
 You can reach us about privacy, or to request deletion, at **snacksense.help@gmail.com**.
 
@@ -31,9 +31,9 @@ We collect only what the app needs to work. Each item below is tied to its purpo
 
 - The **ingredients** you scan or type, your **pantry staples**, meals you **plan** or mark as **cooked** (including the macros, calories, and goal recorded for a cooked meal), and recipes you **save** — so the app can build and track your recipes and progress.
 
-**Apple Health / Health Connect (optional)**
+**Apple Health (optional)**
 
-- If you connect **Apple Health** (iOS) or **Health Connect** (Android), your **weight readings** and **workout sessions** — read **only with your explicit on-device permission**, and **read-only** — so we can show your progress next to the dinners you cook. We **never use this for advertising and never share it.**
+- If you connect **Apple Health**, your **weight readings** and **workout sessions** — read **only with your explicit on-device permission**, and **read-only** — so we can show your progress next to the dinners you cook. We **never use this for advertising and never share it.**
 
 **Basil (the in-app assistant)**
 
@@ -60,7 +60,7 @@ We collect only what the app needs to work. Each item below is tied to its purpo
 This section is as important as section 2.
 
 - **We do not keep your scan photos.** When you scan your fridge, freezer, or a receipt, the photo is sent for ingredient detection and then discarded. We do not store it, and the app no longer uploads it to our storage.
-- **We only read two things from Apple Health / Google Health Connect, and only if you connect them.** If you choose to connect, we read your **weight** and your **workouts** — nothing else (not heart rate, sleep, nutrition, or any other Health data). The connection is **read-only**: we never write anything back to Apple Health or Health Connect. You can disconnect at any time.
+- **We only read two things from Apple Health, and only if you connect it.** If you choose to connect, we read your **weight** and your **workouts** — nothing else (not heart rate, sleep, nutrition, or any other Health data). The connection is **read-only**: we never write anything back to Apple Health. You can disconnect at any time.
 - **We do not store your date of birth.** During onboarding we ask it to check you're old enough (see section 7). It's used for that check in the moment, is never sent to our servers, and is not saved anywhere.
 - **We do not track you across other apps or the web, and we show no ads.** There is no advertising software in the app, no attribution/ad-measurement software, and we never request the advertising identifier (IDFA). Apple's App Tracking Transparency prompt does not apply to us.
 - **We do not register a push-notification token.** Reminders are handled locally on your device.
@@ -76,9 +76,9 @@ We use a small set of service providers ("processors") to run SnackSense. They a
 - **RevenueCat** — manages your subscription. It receives your user ID and purchase events, and its software collects the technical data noted in section 2.
 - **PostHog** — our product analytics and crash reporting, keyed to your user ID, in the **United States**. It records IP and approximate location.
 - **Superwall** — decides which subscription offers to show. It receives your user ID and a small set of account attributes (your plan and signup/cooking status — **not** your health goal). Its integration list is empty, so it **forwards your data to no one else**.
-- **Apple and Google (in-app purchases)** — process your payment when you subscribe. They are independent of us; **we never see your card details.**
+- **Apple (in-app purchases)** — processes your payment when you subscribe. It is independent of us; **we never see your card details.**
 - **Apple and Google (Sign in with Apple / Google), if you choose them** — instead of an email and password, that service confirms who you are and shares your **name and email** with our sign-in provider to create your account. We receive nothing beyond name and email, and no password.
-- **Apple Health (iOS) / Google Health Connect (Android)** — a source on *your own device*. With your permission, we **read** your weight and workouts from it (read-only) to show your progress in the app. This is not a company we hand your data to. Your Health data is **never used for advertising and never shared with anyone**, in line with Apple's HealthKit rules.
+- **Apple Health** — a source on *your own device*. With your permission, we **read** your weight and workouts from it (read-only) to show your progress in the app. This is not a company we hand your data to. Your Health data is **never used for advertising and never shared with anyone**, in line with Apple's HealthKit rules.
 
 Because several of these providers are in the **United States**, your information may be processed there, wherever you live.
 
@@ -93,7 +93,7 @@ You can ask us to delete your account at any time, by emailing us at the address
 A few things are kept on purpose, and you should know about them:
 
 - A **de-identified record of promotional-offer redemptions and cancellation feedback** (with your user ID removed), so the "one promotional save per customer" limit can't be gamed by deleting and re-creating an account.
-- **Payment records held by Apple or Google**, under their own policies.
+- **Payment records held by Apple**, under its own policies.
 - Our payment and analytics **processors retain data under their own retention policies.**
 
 Depending on where you live, you may also have the right to **access, correct, or export** your personal data. You can edit most of it in the app, and you can email us to exercise these rights.
